@@ -1,5 +1,4 @@
 *~
-*.so
 *.o
 *.lo
 *.bak
@@ -10,7 +9,6 @@
 *.tar.gz
 *.pid
 *.a
-bin/
 build/
 include/
 lualib/
